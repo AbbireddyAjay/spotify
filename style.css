@@ -485,15 +485,15 @@
     align-items: center;
 }
 .album{
-    width:25%;
+    width:20%;
     background-color: red;
 }
 .player{
-    width: 50%;
+    width: 60%;
     /* background-color:yellow; */
 }
 .control{
-    width: 25%;
+    width: 20%;
     background-color: green;
 }
 
